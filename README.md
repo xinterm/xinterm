@@ -1,0 +1,2 @@
+# xinterm
+A terminal emulator
